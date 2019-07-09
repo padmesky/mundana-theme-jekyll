@@ -1,7 +1,7 @@
 ---
 title: Running First Appium Test on Android
 author: havva
-image: http://localhost:4000/assets/images/8.jpg
+image: http://www.havvanurelveren.com/assets/images/first-appium-test.jpg
 ---
 
 After I installed Appium on my PC, I've written my first appium test script. I used android apps of spotify and dropbox, since i didn't have my own mobile app. Here i'll show you the example for dropbox since I had a problems with spotify , i'll mention this problem at the end of the post.
