@@ -2,7 +2,7 @@
 title: About
 layout: page-sidebar
 permalink: "/about.html"
-image: http://localhost:4000/assets/images/DSC_0437.JPG
+image: "/assets/images/DSC_0437.JPG"
 comments: false
 ---
 
