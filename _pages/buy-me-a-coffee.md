@@ -1,5 +1,6 @@
 ---
-title: "Buy me a coffee"
+title: Buy me a coffee
+layout: page
 permalink: "/buy-me-a-coffee.html"
 ---
 

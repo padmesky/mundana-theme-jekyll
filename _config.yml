@@ -19,7 +19,13 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-  
+    havva:
+      name:           Havva Nur
+      site:           https://www.havvanurelveren.com
+      avatar:         
+      bio:            "Hi, I am Havva, the author of this blog!"
+      email:          
+      twitter:        
  
 # Defaults
 defaults:
@@ -29,8 +35,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: havva
+      avatar: 
       
   # all pages
   - scope:
